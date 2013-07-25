@@ -1,0 +1,31 @@
+[Project]
+FileName=C:\Dev-C++\space_shooter\Space Shoter.dev
+Name=Space Shoter
+Use_gpp=1
+UnitCount=6
+ResFiles=C:\Dev-C++\space_shooter\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\DEV-C_~1\BIN\Mainicon.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=-lmingw32 -lSDLmain -lSDL
+
+[Unit1]
+FileName=C:\Dev-C++\space_shooter\specifications.h
+
+[Unit2]
+FileName=C:\Dev-C++\space_shooter\EnemyShip.h
+
+[Unit3]
+FileName=C:\Dev-C++\space_shooter\main.cpp
+
+[Unit4]
+FileName=C:\Dev-C++\space_shooter\PlayerShip.h
+
+[Unit5]
+FileName=C:\Dev-C++\space_shooter\Projectile.h
+
+[Unit6]
+FileName=C:\Dev-C++\space_shooter\Background.h
+
